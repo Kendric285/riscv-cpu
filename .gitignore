@@ -1,0 +1,14 @@
+# generated build/simulation files
+obj_dir/
+build/
+*.vcd
+*.fst
+*.vpd
+*.fsdb
+
+# junk python stuff
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
