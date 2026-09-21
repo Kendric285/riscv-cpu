@@ -14,6 +14,7 @@ The project will include a single-cycle core and a five-stage in-order pipelined
 - `programs/` — RISC-V assembly tests
 - `scripts/` — Build and verification scripts
 - `results/` — Selected test and experiment results
+- `experiments/` — Small programs and tests used to explore computer architecture ideas
 
 ## Status
 
